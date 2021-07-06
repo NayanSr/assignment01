@@ -1,0 +1,85 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.sp1{
+    color: #ff9900;
+}
+.hd1{
+    font-size: 30px;
+}
+.a12{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(248, 71, 71),rgb(0, 255, 234));
+    padding: 8px 20px;
+    border-radius: 20px;
+    font-weight: 1000;
+    color: white;
+    }
+.flex{
+    display: flex;
+}
+.s1d12{
+    width: 50%;
+    padding-left: 20px;
+}
+.img1{
+    width: 100%;
+}
+.s1{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+}
+.s2{
+    padding: 10px 10px 20px 20px;
+    background-image: url(images/BG\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%
+}
+.s2d12{
+    width: 50%;
+    padding-left: 20px;
+}
+.s3{
+    text-align: center;
+}
+.s4{
+padding-top: 20px;
+width: 100%;
+}
+.img3{
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+}
+.s4d123{
+    width: 28%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    border-radius: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px #888888;
+}
+.s4p{
+    width: 100%;
+    height: 200px;
+}
+footer{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    text-align: center;
+    background: rgb(0, 0, 0);
+}
+.orenge{
+    color: orange;
+}
+.gray{
+    color: gray;
+}
+.s5p1{
+    color: white;
+}
